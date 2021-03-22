@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PProva2021", "PProva2021\PProva2021.csproj", "{5109E55F-F65C-4D4E-9882-2B9386FE568E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5109E55F-F65C-4D4E-9882-2B9386FE568E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5109E55F-F65C-4D4E-9882-2B9386FE568E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5109E55F-F65C-4D4E-9882-2B9386FE568E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5109E55F-F65C-4D4E-9882-2B9386FE568E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2724CA-3B8C-424B-AD4B-23C32F272F53}
+	EndGlobalSection
+EndGlobal
