@@ -8,5 +8,6 @@ namespace PProva2021
 {
     public class Class1
     {
+        class p { }
     }
 }
